@@ -35,5 +35,5 @@ print("\n")
 message = "Successfully hacked into the mainframe."
 for i in range(0, len(message) - 1):
     print(message[i], end="")
-    time.sleep(0.5))
+    time.sleep(0.5)
 print("\n")
