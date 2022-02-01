@@ -18,15 +18,6 @@ if y not in ["dan", "jeremy", "ethan", "sachin sachin"]:
     print("What the heck are you doing here?")
 else:
     print("Hello", y)
-for i in range(1000000000000000000):
-    print("Nice")
-
-
-
-
-
-
-
 
 
 print("Im hacking into the mainframe")
