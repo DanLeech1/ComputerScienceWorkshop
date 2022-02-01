@@ -16,5 +16,8 @@ for i in range(10):
     print(list2)
     y = y + 2
 
-
-    
+alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+p = 0
+for i in range(len(alphabet)):
+    print(alphabet[p])
+    p = p + 1
