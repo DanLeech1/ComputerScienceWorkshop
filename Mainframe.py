@@ -9,3 +9,9 @@ for i in range(amillion):
     x = x + 1
     print(list1)
 
+y = 1
+list2 = []
+for i in range(10):
+    list2.append(y)
+    print(list2)
+    y = y + 2
