@@ -1,0 +1,17 @@
+import time
+
+num = int(input("Enter a number:"))
+time.sleep(2)
+print("Double it")
+time.sleep(5)
+print("Add 8")
+time.sleep(5)
+print("Divide by 2")
+time.sleep(5)
+print("Take away the number you started with.")
+time.sleep(5)
+print("Is it...")
+time.sleep(2)
+print("...")
+time.sleep(2)
+print("Not 4")
