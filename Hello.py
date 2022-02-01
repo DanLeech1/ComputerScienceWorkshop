@@ -35,5 +35,14 @@ print("\n")
 message = "Successfully hacked into the mainframe."
 for i in range(0, len(message) - 1):
     print(message[i], end="")
-    time.sleep(0.5)
+    time.sleep(0.1)
 print("\n")
+
+nice = input("Do you like the bee movie?")
+
+if(nice == "yes"):
+    print("respect my g")
+elif(nice == "no"):
+    print("What is wrong with you")
+else:
+    print("are you stupid?")
