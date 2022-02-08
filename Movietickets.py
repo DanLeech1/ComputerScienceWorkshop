@@ -10,3 +10,6 @@ while(True):
 
     elif(lol > 12):
         print('Thatll be 15 quid my guy')
+
+    else:
+        print('BANKAI!')
