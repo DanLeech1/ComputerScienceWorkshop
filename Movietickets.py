@@ -12,4 +12,6 @@ while(True):
         print('Thatll be 15 quid my guy')
 
     else:
-        print('BANKAI!')
+        print('Enter a number dumbass')
+
+
