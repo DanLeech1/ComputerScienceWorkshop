@@ -1,6 +1,7 @@
 import time
 while True:
     print("wavey")
+<<<<<<< HEAD
     time.sleep(0.01)
     print(" wavey")
     time.sleep(0.01)
@@ -20,3 +21,24 @@ while True:
     time.sleep(0.01)
     print(" wavey")
     time.sleep(0.01) 
+=======
+    time.sleep(0.05)
+    print(" wavey")
+    time.sleep(0.05)
+    print("   wavey")
+    time.sleep(0.05)
+    print("       wavey")
+    time.sleep(0.05)
+    print("         wavey")
+    time.sleep(0.05)
+    print("          wavey")
+    time.sleep(0.05)
+    print("         wavey")
+    time.sleep(0.05)
+    print("       wavey")
+    time.sleep(0.05)
+    print("   wavey")
+    time.sleep(0.05)
+    print(" wavey")
+    time.sleep(0.05) 
+>>>>>>> bb46642654faeea64fa58423d808dce95c7710eb
